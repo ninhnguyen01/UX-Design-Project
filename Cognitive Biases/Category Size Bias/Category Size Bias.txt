@@ -1,0 +1,2 @@
+What is Category Size Bias?
+- our tendency to believe outcomes are more likely to occur if they are part of a large category rather than part of a small category, even if each outcome is equally likely. 
