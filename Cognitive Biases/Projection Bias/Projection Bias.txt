@@ -1,0 +1,2 @@
+What is Projection Bias?
+- self-forecasting error where we overestimate how much our future selves will share the same beliefs, values and behaviors as our current selves, causing us to make short-sighted decisions.

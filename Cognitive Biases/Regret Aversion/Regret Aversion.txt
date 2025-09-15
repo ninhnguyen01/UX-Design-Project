@@ -1,0 +1,2 @@
+What is Regret Aversion?
+- also known as regret theory, occurs when a decision is made in order to avoid regretting the alternative decision in the future.
