@@ -1,0 +1,2 @@
+What is Hyperbolic Discounting?
+-  our inclination to choose immediate rewards over rewards that come later in the future, even when these immediate rewards are smaller.
