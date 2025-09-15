@@ -1,0 +1,2 @@
+What is the hard-easy effect?
+- the discriminability effect or the difficulty effect, occurs when we incorrectly predict our ability to complete tasks depending on their level of difficulty.

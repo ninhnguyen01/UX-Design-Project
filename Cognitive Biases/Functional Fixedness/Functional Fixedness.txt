@@ -1,0 +1,2 @@
+What is Functional Fixedness?
+- describes why we're unable to use an object in ways beyond its traditional use. 

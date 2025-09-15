@@ -1,0 +1,2 @@
+What is the Gambler’s fallacy?
+-  describes our belief that the probability of a random event occurring in the future is influenced by previous instances of that type of event.
