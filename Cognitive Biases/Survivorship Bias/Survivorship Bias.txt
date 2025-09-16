@@ -1,0 +1,2 @@
+What is the Survivorship Bias?
+- a cognitive shortcut that occurs when a successful subgroup is mistaken as the entire group, due to the invisibility of the failure subgroup. 

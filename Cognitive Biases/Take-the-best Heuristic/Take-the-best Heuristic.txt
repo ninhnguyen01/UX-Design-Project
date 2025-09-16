@@ -1,0 +1,2 @@
+What is the take-the-best heuristic?
+- a shortcut we use when making decisions between alternatives, so that we can quickly make decisions without having to know all the information about each alternative.
